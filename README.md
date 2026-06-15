@@ -57,7 +57,7 @@ en el futuro.
 ## Estructura del proyecto
 
 ```
-Sistema_Gestion_Mascotas/
+Proyectos-POO/
 │
 ├── README.md
 │
